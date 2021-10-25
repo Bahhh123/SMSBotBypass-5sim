@@ -8,16 +8,9 @@ Its more easy to use then using a custom prefix like ! and run a helpcommand to 
 This embed will only be shown to you so its not possible for the owner to login into the bot and see the secret stuff. 
 You can run these commands in Guilds or DMs with no risk of the data being leaked
 
-============================================================================================
-I got a issue and i not know how to solve it!
-
-make sure to look on closed issues first to see if it was solved already. If you open a issue that already got solved i will add the duplicated label and mention the closed issue
-
-
-Commonly asked issues and their solutions:
-
-- The Bot is not starting / throw a connection error:
+**Commonly asked issues and their solutions:**
+- __The Bot is not starting / throw a connection error:__
   - make sure to whitlelist your current public IP on MongoDB Website under Network Access
 
-- The Bot is online but i cant use any slashcommand
-  - reinivte the bot but this time make sure you selected application.commands in the devconsole at the subpage where you generate a invitelink
+- __The Bot is online but i cant use any slashcommand__
+  - reinvite the bot but this time make sure you selected application.commands in the devconsole at the subpage where you generate a invitelink
