@@ -33,9 +33,9 @@ class finish_activation_number(commands.Cog):
             if finish_response.status_code == 200:
                 embed = discord.Embed(title="Successfully", description="", colour=discord.Colour.green())
                 embed.add_field(name="[200] Order Status", value="The Order has been **finished** successfully!")
-                embed.set_thumbnail(url = ctx.author.avatar_url)
-                embed.set_footer(text = watermark)
-                await ctx.send(embed = embed, hidden=True)
+                embed.set_thumbnail(url=ctx.author.avatar_url)
+                embed.set_footer(text=watermark)
+                await ctx.send(embed=embed, hidden=True)
 
             elif finish_response.status_code == 400:
                 embed = discord.Embed(title="Request Error", description="", colour=discord.Colour.red())
@@ -47,8 +47,8 @@ class finish_activation_number(commands.Cog):
         except AttributeError:
             embed = discord.Embed(title="Request Error", description="", colour=discord.Colour.red())
             embed.add_field(name="[401] Unauthorized", value="You cant use any command until you have set your API Key using /setapi")
-            embed.set_footer(text = watermark)
-            await ctx.send(embed = embed, hidden=True)
+            embed.set_footer(text=watermark)
+            await ctx.send(embed=embed, hidden=True)
 
         except Exception:
             raise Exception
