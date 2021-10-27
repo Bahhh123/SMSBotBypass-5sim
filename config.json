@@ -1,7 +1,7 @@
 {
 
-  "Database url": "mongodb+srv://your_srv_databaseurl_get_it_on_mongodb_website",
-  "Database Name": "API_Keys",
-  "Discordbot Prefix": "put anythinf random here. the code got updated to use slashcommands so the prefix here is not important",
-  "Discordbot Token": "set your discord bottoken here"
+  "Database url": "mongodb+srv://<myID>:<myPassword>@sim.e534k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", // make sure to replace <myID> <myPassword> with the actual data | Optional: Change myFirstDatabase with any text you want 
+  "Database Name": "api_keys", // make sure to not include chars like "." or it will throw a error
+  "Discordbot Prefix": "#FPV", // this is the prefix so if you put ! the commands will be !help however this line will be removed later as the bot works with / command so whatever you put is not important and will be ignored.
+  "Discordbot Token": "<mytoken>" // https://dsharpplus.github.io/articles/basics/bot_account.html also make sure to enable application.commands on the Oauth2 section
 }
