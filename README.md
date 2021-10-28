@@ -11,4 +11,4 @@ You can run these commands in Guilds or DMs with no risk of the data being leake
 Make sure to join our Discord Guild. 
 The Link redirect you to a updated invite. 
 If no invite is set it redirects to discord.com) 
-https://discord.verify.gay
+[Click me to join the Guild](http://discord.verify.gay)
