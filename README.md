@@ -8,7 +8,4 @@ Its more easy to use then using a custom prefix like ! and run a helpcommand to 
 This embed will only be shown to you so its not possible for the owner to login into the bot and see the secret stuff. 
 You can run these commands in Guilds or DMs with no risk of the data being leaked
 
-Make sure to join our Discord Guild. 
-The Link redirect you to a updated invite. 
-If no invite is set it redirects to discord.com) 
-[Click me to join the Guild](http://discord.verify.gay)
+[Click me to join the Discord Guild](http://discord.verify.gay)
