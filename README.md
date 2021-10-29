@@ -9,3 +9,6 @@ This embed will only be shown to you so its not possible for the owner to login 
 You can run these commands in Guilds or DMs with no risk of the data being leaked
 
 [Click me to join the Discord Guild](http://discord.verify.gay)
+
+[![FeelsBadMan1's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsBadMan1)](https://github.com/FeelsBadMan1/github-stats)
+
