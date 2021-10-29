@@ -10,5 +10,5 @@ You can run these commands in Guilds or DMs with no risk of the data being leake
 
 [Click me to join the Discord Guild](http://discord.verify.gay)
 
-[![FeelsBadMan1's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsBadMan1)](https://discord.com)
+[![FeelsBadMan1's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsBadMan1&show_icons=true))](https://discord.com)
 
