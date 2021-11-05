@@ -8,3 +8,5 @@ Its more easy to use then using a custom prefix like ! and run a helpcommand to 
 This embed will only be shown to you so its not possible for the owner to login into the bot and see the secret stuff. 
 You can run these commands in Guilds or DMs with no risk of the data being leaked\
 [Click me to join the Discord Guild](http://discord.verify.gay)
+
+(Looking for Suggestions to keep this Project updated. Any suggestion or feature you might want me to add you can tell me by clicking on issues and choose the suggestion. Or you cn use the Discordlink above to suggest things. i try to be more active, push out more opensouce projects and so on. I like to help you guys out with anything that is related to coding on my Discordserver.)
