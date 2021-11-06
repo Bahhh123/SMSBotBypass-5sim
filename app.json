@@ -19,22 +19,19 @@
       "description": "Place the MongoDB Connection URL you find on their Website here",
       "default": "mongodb://localhost:27017/",
       "required": true,
-      "type": "string",
-      "generator": "secret"
+      "type": "string"
     },
     "COLLECTION_NAME": {
       "description": "Place the Collection Name here (choose anything)",
       "default": "users",
       "required": true,
-      "type": "string",
-      "generator": "text"
+      "type": "string"
     },
     "DISCORDBOT_TOKEN": {
       "description": "Place the Discord Bot Token here",
       "default": "",
       "required": true,
-      "type": "string",
-      "generator": "text"
+      "type": "string"
     }
   }
 }
