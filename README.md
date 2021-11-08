@@ -12,3 +12,5 @@ You can run these commands in Guilds or DMs with no risk of the data being leake
 (Looking for Suggestions to keep this Project updated. Any suggestion or feature you might want me to add you can tell me by clicking on issues and choose the suggestion. Or you cn use the Discordlink above to suggest things. i try to be more active, push out more opensouce projects and so on. I like to help you guys out with anything that is related to coding on my Discordserver.)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+(Using Heroku throw a traceback i am aware of. The reason for this is, that i dont know how im supposed to access the given config vars on heroku so ill find a way soon i think. 
+You now should run the bot locally or on a vServer and edit app.json with your infos then it will work)
