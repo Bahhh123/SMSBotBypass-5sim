@@ -1,3 +1,4 @@
+// THIS FILE IS OUTDATED! USE APP.JSON INSTEAD!!
 {
 
   "Database url": "mongodb+srv://<myID>:<myPassword>@sim.e534k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", // make sure to replace <myID> <myPassword> with the actual data | Optional: Change myFirstDatabase with any text you want 
