@@ -16,8 +16,8 @@
   "license": "MIT",
   "env": {
     "DATABASE_URL": {
-      "description": "Place the MongoDB Connection URL you find on their Website here",
-      "default": "mongodb://localhost:27017/",
+      "description": "mongodb+srv://tabah:<password>@cluster0.v9avh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "default": "mongodb+srv://tabah:<password>@cluster0.v9avh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true,
       "type": "string"
     },
@@ -28,7 +28,7 @@
       "type": "string"
     },
     "DISCORDBOT_TOKEN": {
-      "description": "Place the Discord Bot Token here",
+      "description": "OTIzOTk1MTc5OTM1OTg5ODMx.YcYHkQ.fNJB4K918NarYf_GwUU7doQfGS0",
       "default": "",
       "required": true,
       "type": "string"
